@@ -22,4 +22,3 @@ Go to the [myfitnespal login page](https://www.myfitnesspal.com/) at https://www
 ![myimage2](5.png)
 
 7. Once it's printed, you end up with a nice pdf file, like the one shown below, that you can email to Pam or Taylor, for their comments and help.
-![myimage2](6.pdf)
